@@ -10,11 +10,20 @@ Currently, all data is stored **in-memory** — persistence with Room can be add
 ## 🤖 AI Usage Summary
 This project was built entirely with an **AI-first approach** using ChatGPT.  
 AI assisted in:
-- Designing Jetpack Compose UI layouts and state management patterns.
-- Generating ViewModel, Repository, and data class scaffolding.
-- Refining UX through multiple prompt iterations (spacing, labels, animations).
-- Writing code comments, README content, and validation logic.
-- Suggesting architecture and navigation structure.
+- Designing Jetpack Compose UI layouts and state management patterns
+- Generating ViewModel, Repository, and data class scaffolding
+- Refining UX through multiple prompt iterations (spacing, labels, animations)
+- Writing code comments, README content, and validation logic
+- Suggesting architecture and navigation structure
+- Creating mock expense data for testing and reports
+- Implementing input validation rules and error handling patterns
+- Proposing animation effects for better user experience
+- Recommending Jetpack Compose best practices for performance and state handling
+- Assisting with bug fixes and layout adjustments during development
+- Optimizing code readability and enforcing clean MVVM separation
+- Suggesting UI theming structure for Light/Dark modes
+- Providing export and sharing feature ideas for future updates
+
 
 ---
 
@@ -24,7 +33,14 @@ AI assisted in:
 > **Prompt 3:** "Suggest a 3-screen navigation structure in Jetpack Compose with Expense Entry, Expense List, and Expense Report screens."  
 > **Prompt 4:** "Generate mock data for last 7 days and show category-wise totals in a BarChart (mocked) in Compose."  
 > **Prompt 5:** "Fix bar chart spacing, date formatting, and ensure labels display correctly."  
-> *(Further retries focused on bug fixes, padding tweaks, and animation improvements.)*
+> **Prompt 6: "Add input validation for amount and title with inline error messages in Compose."
+> **Prompt 7: "Implement a toggle to switch between Light and Dark themes in Jetpack Compose."
+> **Prompt 8: "Suggest animation effects for button clicks and screen transitions."
+> **Prompt 9: "Optimize StateFlow usage to avoid unnecessary recompositions."
+> **Prompt 10: "Propose improvements to code readability and MVVM separation."
+> **Prompt 11: "Create a reusable CategoryDropdown composable with customizable options."
+> **Prompt 12: "Design an empty state UI for when no expenses are recorded."
+> **(Further retries focused on bug fixes, padding tweaks, theming adjustments, and performance improvements.)
 
 ---
 
