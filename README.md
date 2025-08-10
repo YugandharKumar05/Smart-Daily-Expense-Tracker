@@ -87,7 +87,7 @@ AI assisted in:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yugandhar98/SmartDailyExpenseTracker.git
+   https://github.com/YugandharKumar05/Smart-Daily-Expense-Tracker.git
    
 2. Open in Android Studio.
 
